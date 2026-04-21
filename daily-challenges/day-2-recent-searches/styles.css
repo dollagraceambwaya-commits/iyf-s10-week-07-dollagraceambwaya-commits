@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#history-dropdown {
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  max-width: 300px;
+}
+
+.history-item {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.history-item:hover {
+  background: #f0f0f0;
+}

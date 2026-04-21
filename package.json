@@ -1,0 +1,31 @@
+{
+  "name": "iyf-s10-week-07-dollagraceambwaya-commits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint todo-list/",
+  "lint:fix": "eslint todo-list/ --fix",
+  "format": "prettier --write todo-list/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dollagraceambwaya-commits/iyf-s10-week-07-dollagraceambwaya-commits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dollagraceambwaya-commits/iyf-s10-week-07-dollagraceambwaya-commits/issues"
+  },
+  "homepage": "https://github.com/dollagraceambwaya-commits/iyf-s10-week-07-dollagraceambwaya-commits#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^17.5.0",
+    "prettier": "^3.8.3"
+  }
+}
